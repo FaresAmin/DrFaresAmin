@@ -12,8 +12,10 @@ role: Ph.D Student
 organizations:
 - name: University of Souk Ahras
   url: https://www.univ-soukahras.dz/
+  
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. student at the University of Souk Ahras, Sp : Veterinary anatomy. Working with Professor Tarek Khenenou. And Doctor Rahmoune Djallal Eddine. I'am currently studying veterinary anatomy, focusing on macro and microscopic aspect of immune system in algerian dromedary.
+
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
